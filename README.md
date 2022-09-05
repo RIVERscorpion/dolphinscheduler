@@ -1,3 +1,6 @@
+在profile里面选择release分支，然后再dolphinscheduler里面package就会再dist下面编译出结果
+
+
 Dolphin Scheduler Official Website
 [dolphinscheduler.apache.org](https://dolphinscheduler.apache.org)
 ============
